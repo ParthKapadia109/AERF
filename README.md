@@ -1,10 +1,7 @@
 # AERF_frontend
-![Screenshot (19)](https://github.com/user-attachments/assets/5cdba00c-6f39-4872-82e5-287564aaafe0)
-![Screenshot (18)](https://github.com/user-attachments/assets/47702fc2-00ee-4441-a123-54ec3c718e68)
 ![Screenshot (16)](https://github.com/user-attachments/assets/8e1fca6f-18fb-4c52-945e-49447e8c6b20)
 ![Screenshot (15)](https://github.com/user-attachments/assets/7c09abe2-c2d9-4509-b719-2ee63237546b)
 ![Login](https://github.com/user-attachments/assets/b7244058-5628-45b3-bac2-5eab624a43d5)
-![Home](https://github.com/user-attachments/assets/e65a24fa-9ea3-4636-bf30-97800ae77b52)
 
 ## Description
 This project is a full-stack web application consisting of a **React.js front-end** and a **Python back-end**. It also integrates **Chart.js** for data visualization and includes a UI library to enhance the user interface.
